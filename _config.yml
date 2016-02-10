@@ -1,0 +1,28 @@
+name: distill
+favicon: null
+layout_spectrum: 0.20235532545484602
+typography_spectrum: 0.6642525468487293
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8163741026073694
+  lightness: 0.5401388762984425
+  saturation: 0.03435383667238057
+  rhythmicContrast: 0.7831113757565618
+purpose: []
